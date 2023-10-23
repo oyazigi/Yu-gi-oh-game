@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do Jogo de Yu-gi-og! Este é um jogo simples onde você compete contra o computador em uma partida de "Pedra, Papel e Tesoura" com cartas.
 
-![Exemplo de Jogo](game_screenshot.png)
+![Exemplo de Jogo](src/assets/icons/game_screenshot.png)
 
 ## Descrição
 
@@ -28,7 +28,7 @@ Neste jogo, você e o computador recebem 5 cartas, cada uma representando "Pedra
 
 O jogo acompanha o placar das rodadas, mostrando quantas vezes você venceu e quantas vezes o computador venceu. O objetivo é alcançar o placar mais alto e derrotar o computador!
 
-![Placar](score.png)
+![Placar](src/assets/icons/score.png)
 
 ## Contribuições
 
