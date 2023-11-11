@@ -1,6 +1,6 @@
 # Yu-gi-oh
 
-Bem-vindo ao repositório do Jogo de Yu-gi-og! Este é um jogo simples onde você compete contra o computador em uma partida de "Pedra, Papel e Tesoura" com cartas.
+Bem-vindo ao repositório do Jogo de Yu-gi-oH! Este é um jogo simples onde você compete contra o computador em uma partida de "Pedra, Papel e Tesoura" com cartas.
 
 ![Exemplo de Jogo](src/assets/icons/game_screenshot.png)
 
